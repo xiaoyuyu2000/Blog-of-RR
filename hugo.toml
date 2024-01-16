@@ -100,7 +100,7 @@ uglyURLs = false
     # 邮箱
     email = "xiaoyuyu2000@yeah.net"
     # 座右铭或简介
-    motto = "Liberty is calling"
+    motto = "Everything is waving."
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
@@ -600,7 +600,7 @@ uglyURLs = false
     # 说明：仅在生产环境（production）下渲染
 
     # 是否开启（全局设置）
-    enableComments = false
+    enableComments = true
     # 说明：文章的 Front Matter 中的 `comments`
     #      的优先级高于此处
 
