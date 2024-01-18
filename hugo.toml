@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://blog-of-rr-from-nowhere.netlify.app/"
+baseURL = "https://blogfromnowhere.netlify.app/"
 title = "RR的Lost Land"
 languageCode = "zh-CN"
 hasCJKLanguage = true
